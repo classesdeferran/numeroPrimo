@@ -5,7 +5,6 @@ public class Main {
 
         Scanner input = new Scanner(System.in);
 
-
         try {
             System.out.println("Escribe un número entero:");
             int numero = input.nextInt();
